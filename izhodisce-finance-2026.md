@@ -21,7 +21,7 @@ Predlog: kot merilo za Nejčev pogoj uporabimo **redno poslovanje**, ker razpisi
 
 | Program | Prihodki | Odhodki | Rezultat | Opomba |
 |---|---:|---:|---:|---|
-| Glasbena šola | 18.635 € | 12.574 € | **+6.061 €** | Odhodki so samo zunanji učitelji. Nejčevo poučevanje skupinskega klavirja je med skupnimi stroški, zato je dejanski rezultat šole nižji. |
+| Glasbena šola | 18.635 € | 12.814 € | **+5.821 €** | Zunanji učitelji 12.574 € + ocena Nejčevega poučevanja skupinskega klavirja 240 € (1 šolska ura na mesec × 24 € × 10 mesecev) |
 | Badge up (Erasmus+ KA210) | 6.000 € | 2.150 € | +3.850 € | Razpis, končno plačilo MOVIT |
 | Donacije | 2.500 € | 0 € | +2.500 € | Donacija (Sipoš) |
 | Glasbena soba 24/25 | 2.057 € | 0 € | +2.057 € | Razpis, plačilo iz lanskega leta |
@@ -32,7 +32,7 @@ Predlog: kot merilo za Nejčev pogoj uporabimo **redno poslovanje**, ker razpisi
 | Drugi manjši projekti (Gradiva, Mrč, Ritem srca) | 0 € | 772 € | −772 € | Gradiva se bodo morda povrnila s prodajo |
 | Nerazvrščeni stroški | 0 € | 539 € | −539 € | Pošta, toner, Amazon, Permita ipd. |
 | MusicLink | 0 € | 14.700 € | −14.700 € | Prenos partnerju iz sredstev, prejetih 2025, ni izguba leta 2026 |
-| **Naša glasbena hiša (skupni stroški)** | 0 € | **31.430 €** | **−31.430 €** | Od tega ekipa (s.p.) 26.966 €, naročnine 1.970 €, oglasi 696 €, banka 663 € |
+| **Naša glasbena hiša (skupni stroški)** | 0 € | **31.190 €** | **−31.190 €** | Od tega ekipa (s.p.) 26.726 € (brez Nejčevega poučevanja), naročnine 1.970 €, oglasi 696 €, banka 663 € |
 
 ## 3. Po mesecih
 
@@ -53,19 +53,20 @@ Odprte terjatve (3.685 € po Minimaxu, 4. 11.) so za oktober. To je časovni za
 
 ## 4. Ključne ugotovitve
 
-1. **Glasbena šola je edini redni program, ki prinaša denar**, povprečno do 600 € na mesec prispevka (manj, ko upoštevamo Nejčevo poučevanje).
+1. **Glasbena šola je edini redni program, ki prinaša denar**, povprečno okoli 580 € na mesec prispevka. Skupinski klavir je izrazito v plusu: okoli 432 € prihodka na mesec ob 1 šolski uri Nejčevega dela.
 2. **Skupni stroški (»Naša glasbena hiša«) znašajo okoli 3.100 € na mesec** in niso razporejeni na programe. Večinoma gre za plačilo ekipe.
 3. **Razpisi in donacije so letos prinesli 11.057 €**, kar je pokrilo velik del vrzeli, a so enkratni.
 4. **Poletje (avgust, september) je brez prihodkov**, stroški pa tečejo naprej.
 
-## 5. Odprto
+## 5. Skupinski klavir
 
-- **Koliko ur na teden Nejc uči skupinski klavir** in koliko je ta program prinesel? Ta del njegovega plačila prestavimo iz skupnih stroškov v glasbeno šolo (ali v ločen program »Skupinski klavir«). Po septembrskih osnutkih računov skupinska igra prinese okoli 432 € na mesec.
-- V tabeli *Finance 2026* je samo 5 prihodkov označenih kot »Ure klaviature«. Skupinski klavir se zato iz podatkov ne da ločiti od individualnega pouka.
+- Nejc uči skupinski klavir **1 šolsko uro na mesec**. Ocenjeni strošek po tarifi iz *Poslovne projekcije 27* (24 € na uro) je okoli 24 € na mesec, prihodek okoli 432 € na mesec.
+- Prerazporeditev zato skoraj ne spremeni slike: rezultat šole se zniža za okoli 240 €, skupni stroški pa ostanejo okoli 3.100 € na mesec.
+- **Glavna vrzel ni v programih, ampak v skupnih stroških**, ki jih redni programi ne pokrijejo.
+- V tabeli *Finance 2026* je samo 5 prihodkov označenih kot »Ure klaviature«, zato skupinskega klavirja iz podatkov ne moremo ločiti od individualnega pouka.
 
 ## 6. Predlagani naslednji koraki
 
-1. Določiti Nejčeve ure za skupinski klavir in preveriti, ali je program v plusu.
-2. Potrditi merilo za Nejčev pogoj (predlog: redno poslovanje, brez razpisov in donacij).
-3. V tabeli *Finance 2026* odstraniti vrstice »Skupaj« iz podatkov in vsakemu prihodku dodati kategorijo in projekt (vsaj: individualni pouk, skupinski klavir).
-4. Pripraviti seznam ukrepov za pokritje 1.750–2.650 € na mesec. Iztočnice so v *Poslovni projekciji 27* (npr. zapolnitev 8 prostih individualnih mest: +6.160 € na leto, torej okoli 510 € na mesec).
+1. Potrditi merilo za Nejčev pogoj (predlog: redno poslovanje, brez razpisov in donacij).
+2. V tabeli *Finance 2026* odstraniti vrstice »Skupaj« iz podatkov in vsakemu prihodku dodati kategorijo in projekt (vsaj: individualni pouk, skupinski klavir).
+3. Pripraviti seznam ukrepov za pokritje 1.750–2.650 € na mesec. Iztočnice so v *Poslovni projekciji 27* (npr. zapolnitev 8 prostih individualnih mest: +6.160 € na leto, torej okoli 510 € na mesec).
